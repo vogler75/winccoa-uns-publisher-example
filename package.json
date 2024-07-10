@@ -1,0 +1,18 @@
+{
+  "name": "winccoa-uns-publisher-example",
+  "version": "0.1.0",
+  "description": "WinCC Open Architecture Custom UNS Publisher",
+  "main": "index.js",
+  "keywords": [
+    "WinCCOA",
+    "UNS",
+    "MQTT"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/winccoa-manager": "file:../../../../../Siemens/Automation/WinCC_OA/3.20/data/nodejs/@types/winccoa-manager"
+  }
+}
